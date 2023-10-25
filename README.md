@@ -1,5 +1,5 @@
 <div>
- 
+ <img src="Shapes/perfil.svg">
 </div>
 
 # Portfólio - Desenvolvimento de Sistemas - Novotec AMS na ETEC Zona Leste
