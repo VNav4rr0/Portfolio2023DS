@@ -1,6 +1,9 @@
-<div>
- <img src="Shapes/perfil.svg">
+![Texto Alternativo](./Shapes/Title-Portfolio.png)
+
+ div align="center">
+<img width="100" src="https://i.postimg.cc/3JbrSHWX/etec-ra-metropolitana-sp-capital-da-zona-leste-cidade-a-e-carvalho-cor.png"> 
 </div>
+
 
 # Portfólio - Desenvolvimento de Sistemas - Novotec AMS na ETEC Zona Leste
 Olá, esta é uma documentação sobre a minha jornada na ETEC-ZL no curso técnico de Desenvolvimento de Sistemas no programa Articulado Médio Superior (AMS), em parceria com a empresa IBM.
