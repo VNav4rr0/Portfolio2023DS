@@ -14,7 +14,7 @@
 
 ### Sobre o Curso
 
-O curso de Desenvolvimento de Sistemas na ETEC Zona Leste é uma experiência transformadora que me proporcionou um arsenal de habilidades práticas e teóricas essenciais para a minha carreira. Ao longo do percurso, mergulhei em uma variedade de tecnologias e conceitos fundamentais, o que me preparou para enfrentar os desafios do mundo real.
+O curso de Desenvolvimento de Sistemas na ETEC Zona Leste é uma experiência transformadora que me proporcionou um arsenal de habilidades práticas e teóricas essenciais para a minha carreira. Ao longo do percurso, mergulhei em uma variedade de tecnologias e conceitos fundamentais.
 
 ### Progeto
 
