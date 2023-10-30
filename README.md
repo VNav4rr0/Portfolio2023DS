@@ -18,7 +18,7 @@ O curso de Desenvolvimento de Sistemas na ETEC Zona Leste é uma experiência tr
 
 ### Progeto
 
-Este projeto, concebido durante o curso com base na metodologia de Design Thinking, teve seu foco inicial no desenvolvimento do front-end. Ao longo deste ano, complementamos o trabalho realizado, incorporando a implementação do back-end.
+> Este projeto, concebido durante o curso com base na metodologia de Design Thinking, teve seu foco inicial no desenvolvimento do front-end. Ao longo deste ano, complementamos o trabalho realizado, incorporando a implementação do back-end.
 
 ## `Progeto:` <a href="https://github.com/P4BLOll/Persona-Pizza"> PersonaPizza </a> 
 
