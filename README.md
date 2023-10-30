@@ -1,7 +1,5 @@
-![Texto Alternativo](./Shapes/Title-Portfolio.png)
-
  div align="center">
-<img width="100" src="https://i.postimg.cc/3JbrSHWX/etec-ra-metropolitana-sp-capital-da-zona-leste-cidade-a-e-carvalho-cor.png"> 
+<img width="100" src="Shapes/Title-Portfolio.png"> 
 </div>
 
 
