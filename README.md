@@ -16,7 +16,7 @@
 
 O curso de Desenvolvimento de Sistemas na ETEC Zona Leste é uma experiência transformadora que me proporcionou um arsenal de habilidades práticas e teóricas essenciais para a minha carreira. Ao longo do percurso, mergulhei em uma variedade de tecnologias e conceitos fundamentais.
 
-### Progeto
+### Projeto
 
 > Este projeto, concebido durante o curso com base na metodologia de Design Thinking, teve seu foco inicial no desenvolvimento do front-end. Ao longo deste ano, complementamos o trabalho realizado, incorporando a implementação do back-end.
 
